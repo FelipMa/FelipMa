@@ -1,40 +1,42 @@
-# Felipe Ma
+<h2>Felipe Ma</h2>
 
-Estudante de Engenharia de Computação - UFBA
+[![card](https://github-readme-stats.vercel.app/api?username=FelipMa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-Software developer
+![](https://komarev.com/ghpvc/?username=FelipMa&color=006bed)
 
-## Redes Sociais: 📫
+<h3>Sobre mim</h3>
 
-<a href="https://www.instagram.com/felipema_/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
-</a>
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🎓 &nbsp; Estudante de Engenharia de Computação - UFBA.
+- 💼 &nbsp; Diretor de desenvolvimento - <a href="https://titanci.com.br/">TITAN</a>
 
-<a href="https://www.linkedin.com/in/felipe-ma-0933a6274/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"/>
-</a>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-## Skills:
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="Graphql"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST Api"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm"/></code>
+![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap"/></code>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![ROS](https://img.shields.io/badge/-Ros-333333?style=flat&logo=ros)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github"></code>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
+
+[![Linkedin: Felipe Ma](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ma-0933a6274/)](https://www.linkedin.com/in/felipe-ma-0933a6274/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeapenburg@gmail.com)](mailto:felipeapenburg@gmail.com)
+[![GitHub Felipe Ma](https://img.shields.io/github/followers/FelipMa?label=follow&style=social)](https://github.com/FelipMa)
+
+[![FelipMa](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipMa&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

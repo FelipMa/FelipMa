@@ -1,6 +1,6 @@
 <h2>Felipe Ma</h2>
 
-[![card](https://github-readme-stats.vercel.app/api?username=FelipMa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=FelipMa&theme=tokyonight)](#)
 
 ![](https://komarev.com/ghpvc/?username=FelipMa&color=006bed)
 
@@ -39,4 +39,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeapenburg@gmail.com)](mailto:felipeapenburg@gmail.com)
 [![GitHub Felipe Ma](https://img.shields.io/github/followers/FelipMa?label=follow&style=social)](https://github.com/FelipMa)
 
-[![FelipMa](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipMa&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![FelipMa](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipMa&hide=html&layout=compact&theme=tokyonight)](#)

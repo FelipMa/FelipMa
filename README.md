@@ -4,13 +4,15 @@
 
 ![](https://komarev.com/ghpvc/?username=FelipMa&color=006bed)
 
+<a href="https://felipema.dev.br/">Site</a>
+
 <h3>Sobre mim</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias.
+- 👨‍💻 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudante de Engenharia de Computação - UFBA.
 - 💼 &nbsp; Diretor de desenvolvimento - <a href="https://titanci.com.br/">TITAN</a>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> 🚀 &nbsp;Minhas Skills </h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,7 +35,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
+<h3> 🌎 &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: Felipe Ma](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ma-0933a6274/)](https://www.linkedin.com/in/felipe-ma-0933a6274/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeapenburg@gmail.com)](mailto:felipeapenburg@gmail.com)
